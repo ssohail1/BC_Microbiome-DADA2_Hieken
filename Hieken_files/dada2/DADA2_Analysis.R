@@ -2,7 +2,7 @@
 
 # Set the working directory
 library(dada2)
-setwd("/media/mbb/Sidras_Projects/Hieken_paper/fastq_files/primer_folder-nogz/")
+setwd("/media/mbb/Sidras_Projects/Hieken_paper/fastq_files/primer_folder-nogz/") #change to directory where files are located
 dir()
 path <- "/media/mbb/Sidras_Projects/Hieken_paper/fastq_files/primer_folder-nogz/"
 list.files(path)
