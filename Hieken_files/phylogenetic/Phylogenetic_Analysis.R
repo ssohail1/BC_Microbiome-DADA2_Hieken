@@ -73,10 +73,4 @@ UniFrac(ps, weighted = TRUE)
 weighted <- UniFrac(ps, weighted = TRUE)
 plot(weighted)
 
-# Starting PCoA Analysis
-# updated Oct 26 2020
-BiocManager::install("hopach")
-#distmat<-distancematrix(seqtab.nochim, d = "euclid", na.rm=TRUE)
-distmat<-dist(seqtab.nochim, method = "euclidean", diag = FALSE, upper = FALSE, p = 2)
-pc_plot<-pcoa(distmat)
-biplot(pc_plot)
+
