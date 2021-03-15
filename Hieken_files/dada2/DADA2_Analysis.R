@@ -1,4 +1,4 @@
-**Note: Reverse reads were of very low quality, thus, not included in the analysis**
+### Note: Reverse reads were of very low quality, thus, not included in the analysis
 
 # Set the working directory
 library(dada2)
