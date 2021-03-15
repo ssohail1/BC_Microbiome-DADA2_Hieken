@@ -4,7 +4,7 @@
 
 Paper: Hieken, T. J. et al. The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease. Sci. Rep. 6, 30751 (2016).
 
-Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac plots, and Proportional Abundance Plot Analysis
+Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac, Proportional Abundance Plot Analysis, and PCoA Analysis
 
 
 
