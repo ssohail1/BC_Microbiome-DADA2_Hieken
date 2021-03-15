@@ -2,7 +2,7 @@
 
 **Analysis of Hieken breast cancer microbiome data**
 
-Paper: Urbaniak, C. et al. Microbiota of human breast tissue. Appl. Environ. Microbiol. 80, 3007–3014 (2014).
+Paper: Hieken, T. J. et al. The Microbiome of Aseptically Collected Human Breast Tissue in Benign and Malignant Disease. Sci. Rep. 6, 30751 (2016).
 
 Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac plots, and Proportional Abundance Plot Analysis
 
@@ -12,4 +12,4 @@ Analysis includes: DADA2 Analysis, Phylogenetic Analysis with UniFrac plots, and
 
 The data available has forward and reverse reads.
 
-Data Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4018903/
+Data Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4971513/
