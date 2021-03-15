@@ -33,6 +33,7 @@ ps1 <- merge_samples(ps0, "final_dx")
 ps2 <- transform_sample_counts(ps1, function(x) x / sum(x))
 plot_bar(ps2, fill="Family")
 
+                               
 ps <- tax_glom(ps, "Genus")
 ps0 <- transform_sample_counts(ps, function(x) x / sum(x))
 ps1 <- merge_samples(ps0, "final_dx")
