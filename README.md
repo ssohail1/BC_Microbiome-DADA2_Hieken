@@ -8,7 +8,14 @@ The microbiome is a collection of bacteria that reside in tissues where in cance
 R: Bioconductor, dada2, phyloseq, Biostrings, ggplot2
 
 #### Files in repo
-
+- PCoA folder:
+  - Starting_PCoA_Analysis.R: Code for starting the PCoA analysis
+- dada2 folder:
+  - DADA2_Analysis.R: Rscript for running [DADA2 pipeline](https://benjjneb.github.io/dada2/tutorial_1_8.html)
+- phylogenetic folder:
+  - Phylogenetic_Analysis.R: Code for phylogenetic analyses where the final product is a tree that is visualized through weighted and unweighted UniFrac plots.
+- proportional_abundance folder:
+  - ProportionalAbundance_Analysis.R: Code to visualize the phyloseq object in the form of abundance plots at the phylum, family, and genus levels.
 
 #### How to use
 Clone repository into personal directory using this command,  
